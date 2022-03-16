@@ -1,4 +1,4 @@
-package com.bigdata.spark.application
+package com.bigdata.spark
 
 import org.apache.spark.sql.SparkSession
 
